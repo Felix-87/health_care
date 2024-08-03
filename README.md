@@ -10,3 +10,11 @@ thanks
 Adding function to allow for customer feedback
 
 thanks
+
+# BILLING
+
+add billing functionalty
+
+subject to approval by Project manager
+
+
